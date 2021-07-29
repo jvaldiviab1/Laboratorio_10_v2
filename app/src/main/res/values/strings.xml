@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio10v2</string>
+    <string name="record_audiorecord">Grabar</string>
+    <string name="play_audiotrack">Reproducir</string>
+    <string name="record_button_stop">Detener grabación</string>
+    <string name="play_button_stop">Detener reproducción</string>
+</resources>
